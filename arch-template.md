@@ -23,7 +23,6 @@
       - [SOLUTION](#solution-1)
       - [KPI](#kpi-1)
   - [Implementation Considerations](#implementation-considerations)
-  - [Inspired By](#inspired-by)
   - [Feature List](#feature-list)
   - [Environment Matrix](#environment-matrix)
     - [Development](#development)
@@ -153,13 +152,6 @@ This section is to track considerations or concerns during implementation.
 | 01  |      |             |        |          |        |
 | 02  |      |             |        |          |        |
 | 03  |      |             |        |          |        |
-
-## Inspired By
-
-- [Reference Workflow Architecture POC](https://docsprod.turner.com/display/MSCWAE/Reference+Workflow+Architecture+POC)
-- [Media Supply Chain](https://docsprod.turner.com/display/MSCTeam/Architecture) LOVE THIS!!!
-- [Project Speedy](https://docsprod.turner.com/display/CGWP/Project+Speedy)
-- [Project Speedy Feature List](https://docsprod.turner.com/pages/viewpage.action?pageId=101102401)
 
 ## Feature List
 
